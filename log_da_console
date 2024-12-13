@@ -1,0 +1,1846 @@
+SO_CHECK: Inicializa Tabela Processos
+SO: carga de 'trata_int.maq' em 10-15
+CMD: 'c'
+SO: recebi IRQ 0 (Reset)
+Processo Corrente Inexistente 1
+SO: carga de 'init.maq' em 100-270
+so_trata_irq_reset: PID: 1 - PC: 100 - A: 0 - X: 0 - complemento: 0
+-----------------------
+PID: 1 - Estado: 0
+PC: 100 - A: 0 - X: 0 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 1
+PC: 263 - A: 0 - X: 105 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 1
+PC: 263 - A: 0 - X: 110 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 1
+PC: 263 - A: 0 - X: 105 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 1
+PC: 266 - A: 168 - X: 0 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 1
+PC: 263 - A: 0 - X: 116 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 1
+PC: 263 - A: 0 - X: 32 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 1
+PC: 263 - A: 0 - X: 105 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 1
+PC: 264 - A: 105 - X: 0 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 1
+PC: 263 - A: 0 - X: 110 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 1
+PC: 263 - A: 0 - X: 105 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 1
+PC: 263 - A: 0 - X: 99 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 1
+PC: 263 - A: 0 - X: 99 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 1
+PC: 263 - A: 0 - X: 105 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 1
+PC: 263 - A: 0 - X: 97 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 1
+PC: 263 - A: 0 - X: 108 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 1
+PC: 263 - A: 0 - X: 108 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 1
+PC: 263 - A: 0 - X: 105 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 1
+PC: 263 - A: 0 - X: 122 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 1
+PC: 263 - A: 0 - X: 97 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 1
+PC: 263 - A: 0 - X: 97 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 1
+PC: 263 - A: 0 - X: 110 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 1
+PC: 263 - A: 0 - X: 100 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 1
+PC: 263 - A: 0 - X: 111 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 1
+PC: 263 - A: 0 - X: 111 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 1
+PC: 263 - A: 0 - X: 46 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 1
+PC: 263 - A: 0 - X: 46 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 1
+PC: 263 - A: 0 - X: 46 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 1
+PC: 263 - A: 0 - X: 46 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 1
+PC: 263 - A: 0 - X: 10 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 7
+SO: carga de 'p1.maq' em 7000-7241
+-----------------------
+PID: 1 - Estado: 1
+PID: 2 - Estado: 0
+PC: 114 - A: 2 - X: 188 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 7
+SO: carga de 'p2.maq' em 8000-8243
+-----------------------
+PID: 1 - Estado: 1
+PID: 2 - Estado: 0
+PID: 3 - Estado: 0
+PC: 122 - A: 3 - X: 195 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 7
+SO: carga de 'p3.maq' em 9000-9241
+-----------------------
+PID: 1 - Estado: 1
+PID: 2 - Estado: 0
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 130 - A: 4 - X: 202 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 1
+PID: 2 - Estado: 0
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 134 - A: 2 - X: 202 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 9
+Bloqueia proc: 1 de processo: 2, Tipo bloqueio: 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 0
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7000 - A: 0 - X: 0 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 112 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 49 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7155 - A: 7004 - X: 32 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 32 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 32 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 40 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7154 - A: 98 - X: 7007 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 98 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 97 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 115 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7146 - A: 116 - X: 7010 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 116 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 97 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 110 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7144 - A: 116 - X: 7013 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 116 - complemento: 0
+CMD: 'd0'
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 101 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 32 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7142 - A: 0 - X: 7016 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 67 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 80 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 85 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7149 - A: 0 - X: 7019 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 32 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 112 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 111 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7148 - A: 0 - X: 7021 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 117 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 99 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 97 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7164 - A: 0 - X: 7024 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 32 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 69 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 47 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7163 - A: 7027 - X: 0 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 83 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 41 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 32 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7161 - A: 32 - X: 0 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 32 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 32 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 32 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 32 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 32 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 32 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 32 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 32 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 32 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 32 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 32 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 32 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 32 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 32 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 32 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 32 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 32 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 32 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 32 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 32 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 32 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 32 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 32 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 32 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 32 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 32 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 32 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 32 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 32 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 32 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 32 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 32 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 32 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 32 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 32 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 32 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 32 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 32 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 32 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 32 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 32 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 32 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 32 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 32 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 32 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 32 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 32 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 32 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 32 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 32 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7191 - A: 1 - X: 7069 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 49 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7213 - A: 100 - X: 7069 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 48 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 48 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7157 - A: 7069 - X: 48 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 48 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 32 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 47 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7193 - A: 1 - X: 7069 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 53 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7225 - A: 100 - X: 7069 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 48 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 48 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7157 - A: 7069 - X: 32 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 32 - complemento: 0
+SO: recebi IRQ 2 (Chamada de sistema)
+Não passou por aqui 1
+SO: chamada de sistema 2
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7160 - A: 0 - X: 91 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7134 - A: -997 - X: 3 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7131 - A: 10 - X: 10 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7124 - A: 17 - X: 17 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7122 - A: -977 - X: 23 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7132 - A: 30 - X: 30 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7126 - A: 37 - X: 37 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7123 - A: -957 - X: 44 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7134 - A: -950 - X: 50 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7131 - A: 57 - X: 57 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7124 - A: 64 - X: 64 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7122 - A: -930 - X: 70 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7132 - A: 77 - X: 77 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7126 - A: 84 - X: 84 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7123 - A: -910 - X: 91 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7134 - A: -903 - X: 97 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7131 - A: 104 - X: 104 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7124 - A: 111 - X: 111 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7122 - A: -883 - X: 117 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7132 - A: 124 - X: 124 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7126 - A: 131 - X: 131 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7123 - A: -863 - X: 138 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7134 - A: -856 - X: 144 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7131 - A: 151 - X: 151 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7124 - A: 158 - X: 158 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7122 - A: -836 - X: 164 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7132 - A: 171 - X: 171 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7126 - A: 178 - X: 178 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7123 - A: -816 - X: 185 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7134 - A: -809 - X: 191 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7131 - A: 198 - X: 198 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7124 - A: 205 - X: 205 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7122 - A: -789 - X: 211 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7132 - A: 218 - X: 218 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7126 - A: 225 - X: 225 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7123 - A: -769 - X: 232 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7134 - A: -762 - X: 238 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7131 - A: 245 - X: 245 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7124 - A: 252 - X: 252 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7122 - A: -742 - X: 258 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7132 - A: 265 - X: 265 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7126 - A: 272 - X: 272 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7123 - A: -722 - X: 279 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7134 - A: -715 - X: 285 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7131 - A: 292 - X: 292 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7124 - A: 299 - X: 299 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7122 - A: -695 - X: 305 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7132 - A: 312 - X: 312 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7126 - A: 319 - X: 319 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7123 - A: -675 - X: 326 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7134 - A: -668 - X: 332 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7131 - A: 339 - X: 339 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7124 - A: 346 - X: 346 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7122 - A: -648 - X: 352 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7132 - A: 359 - X: 359 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7126 - A: 366 - X: 366 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7123 - A: -628 - X: 373 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7134 - A: -621 - X: 379 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7131 - A: 386 - X: 386 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7124 - A: 393 - X: 393 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7122 - A: -601 - X: 399 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7132 - A: 406 - X: 406 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7126 - A: 413 - X: 413 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7123 - A: -581 - X: 420 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7134 - A: -574 - X: 426 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7131 - A: 433 - X: 433 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7124 - A: 440 - X: 440 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7122 - A: -554 - X: 446 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7132 - A: 453 - X: 453 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7126 - A: 460 - X: 460 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7123 - A: -534 - X: 467 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7134 - A: -527 - X: 473 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7131 - A: 480 - X: 480 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+-----------------------
+PID: 1 - Estado: 2
+PID: 2 - Estado: 1
+PID: 3 - Estado: 0
+PID: 4 - Estado: 0
+PC: 7124 - A: 487 - X: 487 - complemento: 0
+SO: recebi IRQ 3 (E/S: relógio)
+Não passou por aqui 1
+SO: interrupção do relógio (não tratada)
+------------------
